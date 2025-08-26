@@ -1,5 +1,3 @@
----
-
 ### 🧮 Calculator – `README.md`
 ```markdown
 # Calculator 🧮
